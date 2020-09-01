@@ -1,0 +1,112 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "icons/Starfruit.png"
+    },
+    "_javascript": {
+      "iconPath": "icons/Cat_1.png"
+    },
+    "_javascript_node": {
+      "iconPath": "icons/Cat.png"
+    },
+    "_json": {
+      "iconPath": "icons/Bok_Choy.png"
+    },
+    "_lock": {
+      "iconPath": "icons/Key.png"
+    },
+    "_eslint": {
+      "iconPath": "icons/Dandelion.png"
+    },
+    "_prettier": {
+      "iconPath": "icons/Sweet_Pea.png"
+    },
+    "_git": {
+      "iconPath": "icons/Parsnip.png"
+    },
+    "_log": {
+      "iconPath": "icons/Wood.png"
+    },
+    "_image": {
+      "iconPath": "icons/Summer_Seeds.png"
+    },
+    "_markdown": {
+      "iconPath": "icons/Book.png"
+    },
+    "_babel": {
+      "iconPath": "icons/Scroll.png"
+    },
+    "_license": {
+      "iconPath": "icons/Scroll.png"
+    }
+  },
+  "file": "_file",
+  "fileExtensions": {
+    "js": "_javascript",
+    "jsx": "_javascript",
+    "jpeg": "_image",
+    "jpg": "_image",
+    "gif": "_image",
+    "png": "_image",
+    "bmp": "_image",
+    "ico": "_image",
+    "svg": "_image",
+    "node.js": "_javascript_node",
+    "md": "_markdown"
+  },
+  "fileNames": {
+    "license": "_license",
+    "licence": "_license",
+    "license.md": "_license",
+    "licence.md": "_license",
+    "license.txt": "_license",
+    "copyright": "_license",
+    "copyright.md": "_license",
+    "package.json": "_package_json",
+    "package-lock.json": "_lock",
+    "npm-debug.log": "_log",
+    "vscodeignore.json": "_visualstudiocode",
+    "extensions.json": "_visualstudiocode",
+    "launch.json": "_visualstudiocode",
+    "settings.json": "_visualstudiocode",
+    "jsconfig.json": "_json",
+    "tsconfig.json": "_json",
+    "yarn.lock": "_lock",
+    "yarn-error.log": "_log",
+    ".babelrc": "_babel",
+    ".babel.config.js": "_babel",
+    ".eslintrc.js": "_eslint",
+    ".eslintrc.yml": "_eslint",
+    ".eslintrc.yaml": "_eslint",
+    ".eslintrc.json": "_eslint",
+    ".eslintignore": "_eslint",
+    "prettierrc.js": "_prettier",
+    "prettierrc.json": "_prettier",
+    "prettierrc.yml": "_prettier",
+    "prettierrc.yaml": "_prettier",
+    "prettier.config.js": "_prettier",
+    "prettier.config.ts": "_prettier",
+    "prettier.config.coffee": "_prettier",
+    ".prettierignore": "_prettier",
+    ".prettierrc": "_prettier",
+    "tslint.js": "_tslint",
+    "tslint.ts": "_tslint",
+    "tslint.json": "_tslint",
+    "contributing": "_markdown",
+    "readme": "_markdown",
+    "history": "_log",
+    "history.md": "_log",
+    "changelog": "_log",
+    "changelog.md": "_log",
+    "changelog.json": "_log",
+    "metadata": "_markdown"
+  },
+  "languageIds": {
+    "git": "_git",
+    "javascript": "_javascript",
+    "typescript": "_typescript",
+    "css": "_css",
+    "html": "_html",
+    "json": "_json"
+  }
+}

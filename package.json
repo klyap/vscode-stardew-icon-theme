@@ -1,0 +1,30 @@
+{
+    "name": "vscode-stardew-icon-theme",
+    "displayName": "Stardew Icon Theme",
+    "description": "Icons from the game Stardew Valley",
+    "version": "0.0.1",
+    "publisher": "klyap",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "vscode-stardew-icon-theme",
+                "label": "Stardew Icon Theme",
+                "path": "./icons.json"
+            }
+        ]
+    },
+    "icon": "icons/Spangle.png",
+    "categories": [
+        "Themes"
+    ],
+	"keywords": [
+		"icons",
+        "theme",
+        "pixel",
+        "icon"
+    ],
+	"license": "MIT"
+}
