@@ -3,6 +3,9 @@
     "_file": {
       "iconPath": "icons/Starfruit.png"
     },
+    "_css": {
+      "iconPath": "icons/Strawberry.png"
+    },
     "_javascript": {
       "iconPath": "icons/Cat_1.png"
     },
@@ -38,6 +41,15 @@
     },
     "_license": {
       "iconPath": "icons/Scroll.png"
+    },
+    "_package": {
+      "iconPath": "icons/Bundle_Yellow.png"
+    },
+    "_graphql": {
+      "iconPath": "icons/Grape.png"
+    },
+    "_cerberus": {
+      "iconPath": "icons/Dog_3.png"
     }
   },
   "file": "_file",
@@ -52,7 +64,10 @@
     "ico": "_image",
     "svg": "_image",
     "node.js": "_javascript_node",
-    "md": "_markdown"
+    "md": "_markdown",
+    "grapqhl": "_graphql",
+    "proto": "_proto",
+    "thrift": "_thrift"
   },
   "fileNames": {
     "license": "_license",
@@ -62,7 +77,7 @@
     "license.txt": "_license",
     "copyright": "_license",
     "copyright.md": "_license",
-    "package.json": "_package_json",
+    "package.json": "_package",
     "package-lock.json": "_lock",
     "npm-debug.log": "_log",
     "vscodeignore.json": "_visualstudiocode",
@@ -93,13 +108,13 @@
     "tslint.ts": "_tslint",
     "tslint.json": "_tslint",
     "contributing": "_markdown",
-    "readme": "_markdown",
-    "history": "_log",
-    "history.md": "_log",
+    "history": "_markdown",
+    "history.md": "_markdown",
     "changelog": "_log",
     "changelog.md": "_log",
     "changelog.json": "_log",
-    "metadata": "_markdown"
+    "metadata": "_markdown",
+    "cerberus.yaml": "_cerberus"
   },
   "languageIds": {
     "git": "_git",

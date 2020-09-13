@@ -2,7 +2,7 @@
     "name": "vscode-stardew-icon-theme",
     "displayName": "Stardew Icon Theme",
     "description": "Icons from the game Stardew Valley",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "klyap",
     "engines": {
         "vscode": "^1.20.0"
@@ -17,6 +17,10 @@
         ]
     },
     "icon": "icons/Spangle.png",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/klyap/vscode-stardew-icon-theme.git"
+	},
     "categories": [
         "Themes"
     ],
