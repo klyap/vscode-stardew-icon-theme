@@ -3,7 +3,7 @@
 A Stardew Valley themed product icon pack!
 Currently for common front-end web development file types
 
-![Sample image](./SampleScreenShot.png)
+![Sample image](./SampleScreenshot.png)
 <img width="165" alt="Screen Shot 2020-08-31 at 8 26 01 PM" src="https://user-images.githubusercontent.com/7905522/91792254-f5063500-ebc9-11ea-9baa-560540a92613.png">
 
 Download at https://marketplace.visualstudio.com/items?itemName=klyap.vscode-stardew-icon-theme
