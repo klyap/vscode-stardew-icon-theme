@@ -6,14 +6,17 @@
     "_css": {
       "iconPath": "icons/Strawberry.png"
     },
+    "_html": {
+      "iconPath": "icons/Red_Mushroom.png"
+    },
     "_javascript": {
       "iconPath": "icons/Cat_1.png"
     },
-    "_javascript_node": {
+    "_javascript_test": {
       "iconPath": "icons/Cat.png"
     },
     "_json": {
-      "iconPath": "icons/Bok_Choy.png"
+      "iconPath": "icons/Sunflower.png"
     },
     "_lock": {
       "iconPath": "icons/Key.png"
@@ -50,6 +53,15 @@
     },
     "_cerberus": {
       "iconPath": "icons/Dog_3.png"
+    },
+    "_jest": {
+      "iconPath": "icons/Blobfish.png"
+    },
+    "_apollo": {
+      "iconPath": "icons/Apple.png"
+    },
+    "_bazel": {
+      "iconPath": "icons/Tea_Bush.png"
     }
   },
   "file": "_file",
@@ -63,11 +75,14 @@
     "bmp": "_image",
     "ico": "_image",
     "svg": "_image",
-    "node.js": "_javascript_node",
+    "node.js": "_javascript_test",
+    "browser.js": "_javascript_test",
     "md": "_markdown",
     "grapqhl": "_graphql",
     "proto": "_proto",
-    "thrift": "_thrift"
+    "thrift": "_thrift",
+    "git": "_git",
+    "snap": "_javascript_test"
   },
   "fileNames": {
     "license": "_license",
@@ -114,7 +129,16 @@
     "changelog.md": "_log",
     "changelog.json": "_log",
     "metadata": "_markdown",
-    "cerberus.yaml": "_cerberus"
+    "cerberus.yaml": "_cerberus",
+    ".flowconfig": "_flow",
+    ".fusionrc.config": "_fusion",
+    "bazelisk": "_bazel",
+    "BUILD.bazel": "_bazel",
+    "jest.config.js": "_jest",
+    "jest.integration.config.js": "_jest",
+    "apollo.config.js": "_apollo",
+    ".gitignore": "_git",
+    ".graphqlconfig": "_graphql"
   },
   "languageIds": {
     "git": "_git",
