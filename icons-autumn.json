@@ -1,16 +1,16 @@
 {
   "iconDefinitions": {
     "_file": {
-      "iconPath": "icons/Starfruit.png"
+      "iconPath": "icons/autumn/Pumpkin.png"
     },
     "_css": {
-      "iconPath": "icons/Strawberry.png"
+      "iconPath": "icons/autumn/Chanterelle.png"
     },
     "_html": {
       "iconPath": "icons/Red_Mushroom.png"
     },
     "_javascript": {
-      "iconPath": "icons/Cat_1.png"
+      "iconPath": "icons/autumn/Pumpkin.png"
     },
     "_javascript_test": {
       "iconPath": "icons/Cat.png"
@@ -22,19 +22,19 @@
       "iconPath": "icons/Key.png"
     },
     "_eslint": {
-      "iconPath": "icons/Dandelion.png"
+      "iconPath": "icons/autumn/Common_Mushroom.png"
     },
     "_prettier": {
-      "iconPath": "icons/Sweet_Pea.png"
+      "iconPath": "icons/autumn/Purple_Mushroom.png"
     },
     "_git": {
-      "iconPath": "icons/Parsnip.png"
+      "iconPath": "icons/autumn/Corn.png"
     },
     "_log": {
       "iconPath": "icons/Wood.png"
     },
     "_image": {
-      "iconPath": "icons/Summer_Seeds.png"
+      "iconPath": "icons/autumn/Fall_Seeds.png"
     },
     "_markdown": {
       "iconPath": "icons/Book.png"
@@ -46,22 +46,28 @@
       "iconPath": "icons/Scroll.png"
     },
     "_package": {
-      "iconPath": "icons/Bundle_Yellow.png"
+      "iconPath": "icons/autumn/Autumns_Bounty.png"
     },
     "_graphql": {
-      "iconPath": "icons/Grape.png"
+      "iconPath": "icons/autumn/Cranberries.png"
     },
     "_cerberus": {
       "iconPath": "icons/Dog_3.png"
     },
     "_jest": {
-      "iconPath": "icons/Blobfish.png"
+      "iconPath": "icons/autumn/Hazelnut.png"
     },
     "_apollo": {
-      "iconPath": "icons/Apple.png"
+      "iconPath": "icons/autumn/Wheat.png"
     },
     "_bazel": {
-      "iconPath": "icons/Tea_Bush.png"
+      "iconPath": "icons/autumn/Beet.png"
+    },
+    "_fusion": {
+      "iconPath": "icons/autumn/Fairy_Rose.png"
+    },
+    "_font": {
+      "iconPath": "icons/autumn/Blackberry.png"
     }
   },
   "file": "_file",
@@ -82,7 +88,9 @@
     "proto": "_proto",
     "thrift": "_thrift",
     "git": "_git",
-    "snap": "_javascript_test"
+    "snap": "_javascript_test",
+    "woff": "_font",
+    "woff2": "_font"
   },
   "fileNames": {
     "license": "_license",
@@ -131,7 +139,7 @@
     "metadata": "_markdown",
     "cerberus.yaml": "_cerberus",
     ".flowconfig": "_flow",
-    ".fusionrc.config": "_fusion",
+    ".fusionrc.js": "_fusion",
     "bazelisk": "_bazel",
     "BUILD.bazel": "_bazel",
     "jest.config.js": "_jest",

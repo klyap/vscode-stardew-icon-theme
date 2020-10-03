@@ -2,7 +2,7 @@
     "name": "vscode-stardew-icon-theme",
     "displayName": "Stardew Icon Theme",
     "description": "Icons from the game Stardew Valley",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "publisher": "klyap",
     "engines": {
         "vscode": "^1.20.0"
@@ -13,7 +13,13 @@
                 "id": "vscode-stardew-icon-theme",
                 "label": "Stardew Icon Theme",
                 "path": "./icons.json"
+            },
+            {
+                "id": "vscode-stardew-icon-theme-autumn",
+                "label": "Stardew Icon Theme - Autumn",
+                "path": "./icons-autumn.json"
             }
+
         ]
     },
     "icon": "icons/Spangle.png",
@@ -28,7 +34,12 @@
 		"icons",
         "theme",
         "pixel",
-        "icon"
+        "icon",
+        "cute",
+        "game",
+        "stardew",
+        "valley",
+        "cozy"
     ],
 	"license": "MIT"
 }
