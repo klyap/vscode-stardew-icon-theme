@@ -18,6 +18,11 @@
                 "id": "vscode-stardew-icon-theme-autumn",
                 "label": "Stardew Icon Theme - Autumn",
                 "path": "./icons-autumn.json"
+            },
+            {
+                "id": "vscode-stardew-icon-theme-winter",
+                "label": "Stardew Icon Theme - Winter",
+                "path": "./icons-winter.json"
             }
 
         ]

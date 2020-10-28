@@ -1,0 +1,160 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "icons/winter/Holly.png"
+    },
+    "_css": {
+      "iconPath": "icons/winter/Maple_stump_Winter.png"
+    },
+    "_html": {
+      "iconPath": "icons/winter/Lucky_Lunch.png"
+    },
+    "_javascript": {
+      "iconPath": "icons/winter/Snow_Yam.png"
+    },
+    "_javascript_test": {
+      "iconPath": "icons/Cat.png"
+    },
+    "_json": {
+      "iconPath": "icons/winter/Winter_Root.png"
+    },
+    "_lock": {
+      "iconPath": "icons/Key.png"
+    },
+    "_eslint": {
+      "iconPath": "icons/winter/Coffee.png"
+    },
+    "_prettier": {
+      "iconPath": "icons/winter/Coffee.png"
+    },
+    "_git": {
+      "iconPath": "icons/winter/Roots_Platter.png"
+    },
+    "_log": {
+      "iconPath": "icons/Wood.png"
+    },
+    "_image": {
+      "iconPath": "icons/winter/Winter_Seeds.png"
+    },
+    "_markdown": {
+      "iconPath": "icons/Book.png"
+    },
+    "_babel": {
+      "iconPath": "icons/Scroll.png"
+    },
+    "_license": {
+      "iconPath": "icons/Scroll.png"
+    },
+    "_package": {
+      "iconPath": "icons/winter/Bundle_Teal.png"
+    },
+    "_graphql": {
+      "iconPath": "icons/autumn/Cranberries.png"
+    },
+    "_cerberus": {
+      "iconPath": "icons/Dog_3.png"
+    },
+    "_jest": {
+      "iconPath": "icons/autumn/Hazelnut.png"
+    },
+    "_apollo": {
+      "iconPath": "icons/winter/Wine.png"
+    },
+    "_bazel": {
+      "iconPath": "icons/winter/Crocus.png"
+    },
+    "_fusion": {
+      "iconPath": "icons/winter/Crystal_Fruit.png"
+    },
+    "_font": {
+      "iconPath": "icons/winter/Nautilus_Shell.png"
+    }
+  },
+  "file": "_file",
+  "fileExtensions": {
+    "js": "_javascript",
+    "jsx": "_javascript",
+    "jpeg": "_image",
+    "jpg": "_image",
+    "gif": "_image",
+    "png": "_image",
+    "bmp": "_image",
+    "ico": "_image",
+    "svg": "_image",
+    "node.js": "_javascript_test",
+    "browser.js": "_javascript_test",
+    "test.js": "_javascript_test",
+    "md": "_markdown",
+    "graphql": "_graphql",
+    "proto": "_proto",
+    "thrift": "_thrift",
+    "git": "_git",
+    "snap": "_javascript_test",
+    "woff": "_font",
+    "woff2": "_font"
+  },
+  "fileNames": {
+    "license": "_license",
+    "licence": "_license",
+    "license.md": "_license",
+    "licence.md": "_license",
+    "license.txt": "_license",
+    "copyright": "_license",
+    "copyright.md": "_license",
+    "package.json": "_package",
+    "package-lock.json": "_lock",
+    "npm-debug.log": "_log",
+    "vscodeignore.json": "_visualstudiocode",
+    "extensions.json": "_visualstudiocode",
+    "launch.json": "_visualstudiocode",
+    "settings.json": "_visualstudiocode",
+    "jsconfig.json": "_json",
+    "tsconfig.json": "_json",
+    "yarn.lock": "_lock",
+    "yarn-error.log": "_log",
+    ".babelrc": "_babel",
+    ".babel.config.js": "_babel",
+    ".eslintrc.js": "_eslint",
+    ".eslintrc.yml": "_eslint",
+    ".eslintrc.yaml": "_eslint",
+    ".eslintrc.json": "_eslint",
+    ".eslintignore": "_eslint",
+    "prettierrc.js": "_prettier",
+    "prettierrc.json": "_prettier",
+    "prettierrc.yml": "_prettier",
+    "prettierrc.yaml": "_prettier",
+    "prettier.config.js": "_prettier",
+    "prettier.config.ts": "_prettier",
+    "prettier.config.coffee": "_prettier",
+    ".prettierignore": "_prettier",
+    ".prettierrc": "_prettier",
+    "tslint.js": "_tslint",
+    "tslint.ts": "_tslint",
+    "tslint.json": "_tslint",
+    "contributing": "_markdown",
+    "history": "_markdown",
+    "history.md": "_markdown",
+    "changelog": "_log",
+    "changelog.md": "_log",
+    "changelog.json": "_log",
+    "metadata": "_markdown",
+    "cerberus.yaml": "_cerberus",
+    ".flowconfig": "_flow",
+    ".fusionrc.js": "_fusion",
+    "bazelisk": "_bazel",
+    "BUILD.bazel": "_bazel",
+    "jest.config.js": "_jest",
+    "jest.integration.config.js": "_jest",
+    "apollo.config.js": "_apollo",
+    ".gitignore": "_git",
+    ".graphqlconfig": "_graphql"
+  },
+  "languageIds": {
+    "git": "_git",
+    "javascript": "_javascript",
+    "typescript": "_typescript",
+    "css": "_css",
+    "html": "_html",
+    "json": "_json"
+  }
+}
