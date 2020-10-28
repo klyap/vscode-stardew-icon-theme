@@ -9,6 +9,11 @@ Currently for common front-end web development file types
 
 <img width="209" alt="Screen Shot 2020-10-02 at 6 08 57 PM" src="https://user-images.githubusercontent.com/7905522/94979891-6e9b8680-04da-11eb-8bd6-5ff0a63ad09f.png">
 
+### Winter mode:
+
+<img width="233" alt="Screen Shot 2020-10-27 at 9 45 19 PM" src="https://user-images.githubusercontent.com/7905522/97392155-5121c880-189e-11eb-86de-7c1886be767e.png">
+
+
 ### Download at https://marketplace.visualstudio.com/items?itemName=klyap.vscode-stardew-icon-theme
 <img width="739" alt="Screen Shot 2020-10-02 at 4 14 12 PM" src="https://user-images.githubusercontent.com/7905522/94976903-52dcb400-04cb-11eb-8d84-04c2094ea725.png">
 
