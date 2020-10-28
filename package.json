@@ -2,7 +2,7 @@
     "name": "vscode-stardew-icon-theme",
     "displayName": "Stardew Icon Theme",
     "description": "Icons from the game Stardew Valley",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "klyap",
     "engines": {
         "vscode": "^1.20.0"
@@ -44,7 +44,9 @@
         "game",
         "stardew",
         "valley",
-        "cozy"
+        "cozy",
+        "cat",
+        "farm"
     ],
 	"license": "MIT"
 }
