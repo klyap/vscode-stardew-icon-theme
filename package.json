@@ -1,52 +1,60 @@
 {
-    "name": "vscode-stardew-icon-theme",
-    "displayName": "Stardew Icon Theme",
-    "description": "Icons from the game Stardew Valley",
-    "version": "0.0.7",
-    "publisher": "klyap",
-    "engines": {
-        "vscode": "^1.20.0"
-    },
-    "contributes": {
-        "iconThemes": [
-            {
-                "id": "vscode-stardew-icon-theme",
-                "label": "Stardew Icon Theme",
-                "path": "./icons.json"
-            },
-            {
-                "id": "vscode-stardew-icon-theme-autumn",
-                "label": "Stardew Icon Theme - Autumn",
-                "path": "./icons-autumn.json"
-            },
-            {
-                "id": "vscode-stardew-icon-theme-winter",
-                "label": "Stardew Icon Theme - Winter",
-                "path": "./icons-winter.json"
-            }
-
-        ]
-    },
-    "icon": "icons/Spangle.png",
-    "repository": {
-		"type": "git",
-		"url": "https://github.com/klyap/vscode-stardew-icon-theme.git"
-	},
-    "categories": [
-        "Themes"
-    ],
-	"keywords": [
-		"icons",
-        "theme",
-        "pixel",
-        "icon",
-        "cute",
-        "game",
-        "stardew",
-        "valley",
-        "cozy",
-        "cat",
-        "farm"
-    ],
-	"license": "MIT"
+  "name": "vscode-stardew-icon-theme",
+  "displayName": "Stardew Icon Theme",
+  "description": "Icons from the game Stardew Valley",
+  "version": "0.0.7",
+  "publisher": "klyap",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vscode-stardew-icon-theme",
+        "label": "Stardew Icon Theme",
+        "path": "./icons.json"
+      },
+      {
+        "id": "vscode-stardew-icon-theme-autumn",
+        "label": "Stardew Icon Theme - Autumn",
+        "path": "./icons-autumn.json"
+      },
+      {
+        "id": "vscode-stardew-icon-theme-winter",
+        "label": "Stardew Icon Theme - Winter",
+        "path": "./icons-winter.json"
+      },
+      {
+        "id": "vscode-stardew-icon-theme-with-folder",
+        "label": "Stardew Icon Theme - With Folder",
+        "path": "./icons-with-folder.json"
+      }
+    ]
+  },
+  "icon": "icons/Spangle.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klyap/vscode-stardew-icon-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+    "pixel",
+    "icon",
+    "cute",
+    "game",
+    "stardew",
+    "valley",
+    "cozy",
+    "cat",
+    "farm"
+  ],
+  "license": "MIT",
+  "__metadata": {
+    "installedTimestamp": 1741205093261,
+    "size": 103268
+  }
 }
